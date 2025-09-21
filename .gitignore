@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and cache
+*.log
+*.cache
+*.bak
+
+# Large data and model files
+shape_predictor_68_face_landmarks.dat
+
+# Audio, images (optional if generated during runtime)
+*.mp3
+*.wav
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Build / distribution
+dist/
+build/
+*.egg-info/
