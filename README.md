@@ -5,9 +5,13 @@ A computer vision–based system that detects driver drowsiness using facial lan
 🚀 Features
 
 •Detects faces and eyes in real-time using OpenCV Haar cascades.
+
 •Monitors eye aspect ratio to determine drowsiness.
+
 •Plays an alarm sound when drowsiness is detected.
+
 •Works with both images and real-time webcam video.
+
 •Includes demo images and GIFs for testing.
 
 📂 Project Structure
